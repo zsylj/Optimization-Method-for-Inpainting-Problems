@@ -1,7 +1,7 @@
 # Optimization-Method-for-Inpainting-Problems
 This is a repo for Image Inpainting Problem
 
-the mathematical model can be modeled as:
+the Image Inpainting Problem can be modeled as:
 
 0.5 * || K*u - f ||^2_2 + tau | D * u |_1
 
